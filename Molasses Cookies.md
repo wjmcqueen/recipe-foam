@@ -16,9 +16,9 @@ tags: dessert
 - 1/2 tsp salt
 
 ### Directions
-melt butter, remove and cool;
-add sugar, molasses & egg - beat well;
-add flour, soda, spices, salt;
-mix well & chill;
-form 1 inch balls - roll in granulated sugar;
-bake @ 375 degrees 8-10 min
+1. melt butter, remove and cool;
+2. add sugar, molasses & egg - beat well;
+3. add flour, soda, spices, salt;
+4. mix well & chill;
+5. form 1 inch balls - roll in granulated sugar;
+6. bake @ 375 degrees 8-10 min
