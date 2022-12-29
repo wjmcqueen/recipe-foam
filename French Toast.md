@@ -1,5 +1,5 @@
 ---
-tags: brunch
+tags: breakfast
 ---
 # French Toast
 

@@ -1,5 +1,5 @@
 ---
-tags: dessert
+tags: breakfast
 ---
 # Dutch Baby
 

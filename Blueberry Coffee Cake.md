@@ -1,5 +1,5 @@
 ---
-tags: dessert
+tags: breakfast
 ---
 # Granite Steps Country Blueberry Coffee Cake
 Recipe courtesy Paula Deen
